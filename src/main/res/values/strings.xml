@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Guidria</string>
+    <string name="password">Enter your password</string>
+    <string name="fullname">Enter your full name</string>
+    <string name="phone">Enter your phone number</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="guidria">Guidria</string>
+    <string name="new_acc">Create a new account</string>
+    <string name="register">Register</string>
+    <string name="already">Already Registered? Login <u>Here</u> </string>
+    <string name="enteremail">Enter your email address</string>
+    <string name="logout">Logout</string>
+    <string name="profileName">Your full name</string>
+    <string name="profileEmail">"Your Email"</string>
+    <string name="profilePhone">"Your Phone"</string>
+    <string name="profile">Your Profile</string>
+    <string name="title_activity_post_login">PostLogin</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_take_photo">Take a photo</string>
+    <string name="nav_take_quiz">Take a Quiz</string>
+    <string name="nav_favorite">Favorites</string>
+    <string name="nav_search">Search</string>
+    <string name="navigation_draw_open">Open navigation drawer</string>
+    <string name="navigation_draw_close">Close navigation drawer</string>
+
+
+</resources>
